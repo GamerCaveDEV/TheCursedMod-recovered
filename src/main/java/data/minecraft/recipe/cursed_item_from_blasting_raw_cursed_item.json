@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 500.0,
+  "group": "cursed",
+  "ingredient": {
+    "item": "thecursedmod:raw_cursed_item"
+  },
+  "result": {
+    "count": 1,
+    "id": "thecursedmod:cursed_item"
+  }
+}

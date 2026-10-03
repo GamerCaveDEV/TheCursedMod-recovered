@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 250.0,
+  "group": "cursed",
+  "ingredient": {
+    "item": "thecursedmod:cursed_deepslate_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "thecursedmod:cursed_item"
+  }
+}

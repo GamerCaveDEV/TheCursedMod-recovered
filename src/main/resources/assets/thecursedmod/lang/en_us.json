@@ -1,0 +1,21 @@
+{
+  "item.thecursedmod.cursed_item": "Cursed Item",
+  "item.thecursedmod.raw_cursed_item": "Raw Cursed Item",
+  "item.thecursedmod.forger": "Forger",
+  "item.thecursedmod.goldmaker": "The Gold Maker",
+  "item.thecursedmod.the_superstar": "The Superstar",
+  "item.thecursedmod.over_warts": "Overwarts",
+
+  "item.thecursedmod.cursed_mode": "Cursed Mode",
+
+  "block.thecursedmod.cursed_block": "Cursed Block",
+  "block.thecursedmod.cursed_ore": "Cursed Ore",
+  "block.thecursedmod.cursed_deepslate_ore": "Cursed Deepslate Ore",
+  "block.thecursedmod.transformer_block": "The Transformer Block",
+
+
+  "creativetab.thecursedmod.cursed_mod": "The Cursed Mod",
+
+  "tooltip.thecursedmod.forger": "Right click the ground using me! I will do something special.",
+  "tooltip.thecursedmod.goldmaker": "Right click the ground using me! I will do something special."
+}

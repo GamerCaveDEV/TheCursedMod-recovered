@@ -1,0 +1,4 @@
+// 1.21.1	2026-05-27T11:47:22.1756607	Registries
+e37b9c4566ab513a6aed92a64052f32d478745f8 data/thecursedmod/neoforge/biome_modifier/add_cursed_ore.json
+28072ce60627184e8c4979ed5cc962585547637c data/thecursedmod/worldgen/configured_feature/cursed_ore.json
+b6c7c3ffe1e19c7694d13db35f5f46f018e9ab53 data/thecursedmod/worldgen/placed_feature/cursed_ore_placed.json

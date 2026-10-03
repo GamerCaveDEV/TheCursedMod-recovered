@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 250.0,
+  "group": "cursed",
+  "ingredient": {
+    "item": "thecursedmod:raw_cursed_item"
+  },
+  "result": {
+    "count": 1,
+    "id": "thecursedmod:cursed_item"
+  }
+}

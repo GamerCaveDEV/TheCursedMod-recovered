@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cursed_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thecursedmod:cursed_item"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thecursedmod:cursed_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cursed_item"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thecursedmod:cursed_block"
+    ]
+  }
+}
